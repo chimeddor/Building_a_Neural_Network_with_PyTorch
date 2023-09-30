@@ -3,7 +3,7 @@ Building_a_Neural_Network_with_PyTorch Pythorch을 사용하여 Neural Network�
 
 input <br>
 
-![img_1](https://github.com/chimeddor/Building_a_Neural_Network_with_PyTorch/assets/53028417/577f249e-f974-4182-a88e-1bee900fdf03)
+![img_1](https://github.com/chimeddor/Building_a_Neural_Network_with_PyTorch/assets/53028417/577f249e-f974-4182-a88e-1bee900fdf03).jpg
 
 output <br>
-2
+tensor(2, device='cuda:0')
